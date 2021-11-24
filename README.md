@@ -13,7 +13,7 @@ Apart from my work, I spend time finding the vulnerabilities in web applications
 ### 🔎 CVEs:
 |ID|CVSS Vector|Score|
 |---|---|---|
-|[CVE-2021-3961](https://nvd.nist.gov/vuln/detail/CVE-2021-3961)|||
+|[CVE-2021-3961](https://nvd.nist.gov/vuln/detail/CVE-2021-3961)|CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N|5.4 MEDIUM|
 |[CVE-2021-3989](https://nvd.nist.gov/vuln/detail/CVE-2021-3989)|||
 |[CVE-2021-4000](https://nvd.nist.gov/vuln/detail/CVE-2021-4000)|||
 |[CVE-2021-4013](https://nvd.nist.gov/vuln/detail/CVE-2021-4000)|||
