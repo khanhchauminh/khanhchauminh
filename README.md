@@ -18,3 +18,4 @@ Apart from my work, I spend time finding the vulnerabilities in web applications
 |[CVE-2021-4000](https://nvd.nist.gov/vuln/detail/CVE-2021-4000)|||
 |[CVE-2021-4013](https://nvd.nist.gov/vuln/detail/CVE-2021-4013)|||
 |[CVE-2021-4017](https://nvd.nist.gov/vuln/detail/CVE-2021-4017)|||
+|[CVE-2021-4036](https://nvd.nist.gov/vuln/detail/CVE-2021-4036)|||
