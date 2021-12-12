@@ -21,6 +21,6 @@ Apart from my work, I spend time finding the vulnerabilities in web applications
 |[CVE-2021-4036](https://nvd.nist.gov/vuln/detail/CVE-2021-4036)|||
 |[CVE-2021-4049](https://nvd.nist.gov/vuln/detail/CVE-2021-4049)|CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H|6.5 MEDIUM|
 |[CVE-2021-4050](https://nvd.nist.gov/vuln/detail/CVE-2021-4050)|CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N|6.1 MEDIUM|
-|[CVE-2021-4050](https://nvd.nist.gov/vuln/detail/CVE-2021-4081)|CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N|6.1 MEDIUM|
-|[CVE-2021-4050](https://nvd.nist.gov/vuln/detail/CVE-2021-4082)|||
-|[CVE-2021-4050](https://nvd.nist.gov/vuln/detail/CVE-2021-4092)|||
+|[CVE-2021-4081](https://nvd.nist.gov/vuln/detail/CVE-2021-4081)|CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N|6.1 MEDIUM|
+|[CVE-2021-4082](https://nvd.nist.gov/vuln/detail/CVE-2021-4082)|||
+|[CVE-2021-4092](https://nvd.nist.gov/vuln/detail/CVE-2021-4092)|||
