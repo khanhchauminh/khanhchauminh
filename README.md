@@ -10,7 +10,7 @@ Apart from my work, I spend time finding the vulnerabilities in web applications
 ### 🏆 Certifications:
 
 
-### 🔎 CVEs: 13
+### 🔎 CVEs: 14
 |ID|CVSS Vector|Score|
 |---|---|---|
 |[CVE-2021-3961](https://nvd.nist.gov/vuln/detail/CVE-2021-3961)|CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N|5.4 MEDIUM|
@@ -24,5 +24,6 @@ Apart from my work, I spend time finding the vulnerabilities in web applications
 |[CVE-2021-4081](https://nvd.nist.gov/vuln/detail/CVE-2021-4081)|CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N|6.1 MEDIUM|
 |[CVE-2021-4082](https://nvd.nist.gov/vuln/detail/CVE-2021-4082)|CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:L/A:N|4.3 MEDIUM|
 |[CVE-2021-4092](https://nvd.nist.gov/vuln/detail/CVE-2021-4092)|CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:L/A:N|4.3 MEDIUM|
-|[CVE-2021-4117](https://nvd.nist.gov/vuln/detail/CVE-2021-4117)|||
+|[CVE-2021-4117](https://nvd.nist.gov/vuln/detail/CVE-2021-4117)|CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:L/A:N|4.3 MEDIUM|
 |[CVE-2021-4123](https://nvd.nist.gov/vuln/detail/CVE-2021-4123)|||
+|[CVE-2021-4131](https://nvd.nist.gov/vuln/detail/CVE-2021-4131)|||
