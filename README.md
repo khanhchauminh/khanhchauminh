@@ -1,16 +1,9 @@
+### About me
+👋 Hi everyone, my name is Chau Minh Khanh.  
 
-👋 Hi, I am a junior in Information Security who is interested in Penetration Testing and Research. I desire to learn, practice new techniques about web security in a professional environment.
+I am a Senior in Information Security who experienced Penetration Tester with a demonstrated history of working in the Information Security industry and skilled in Penetration Testing, Computer Forensics, and Open-Source Intelligence. I am interested in finding vulnerabilities in web applications through Bug Bounties and Responsible Disclosure Programmes. I desire to learn and practice new techniques for web security in a professional environment.
 
-Apart from my work, I spend time finding the vulnerabilities in web applications through many Bug Bounties and Responsible Disclosure Programmes. I have been acknowledged on CERT-EU (11x), United Nations (3x), MediaTek, Bayer AG, Bosch Websites Hall of Fames and got appreciation from NCSC Netherlands, Latvian CERT (2x). 
-
-![khanhchauminh github stats](https://github-readme-stats.vercel.app/api?username=khanhchauminh&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhchauminh&layout=compact&theme=dark)
-
-
-### 🏆 Certifications:
-
-
-### 🔎 CVEs: 17
+### 🔎 CVEs: 35
 |No|ID|CVSS Vector|Score|
 |---|---|---|---|
 |1|[CVE-2021-3961](https://nvd.nist.gov/vuln/detail/CVE-2021-3961)|CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N|5.4 MEDIUM|
