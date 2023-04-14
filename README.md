@@ -43,3 +43,16 @@ I am an experienced Penetration Tester with a demonstrated history of working in
 |35|[CVE-2023-1429](https://nvd.nist.gov/vuln/detail/CVE-2023-1429)|CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N|5.4 MEDIUM|
 |36|[CVE-2023-1515](https://nvd.nist.gov/vuln/detail/CVE-2023-1515)|CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N|5.4 MEDIUM|
 |37|[CVE-2023-1517](https://nvd.nist.gov/vuln/detail/CVE-2023-1517)|CVSS:3.1/AV:N/AC:L/PR:H/UI:R/S:C/C:L/I:L/A:N|4.8 MEDIUM|
+
+### Hall of Fames
+- CERT-EU (15 times) (https://cert.europa.eu/hall-of-fame)
+- United Nations (4x) (https://unite.un.org/content/hall-fame/list)
+- Assurance Maladie (https://assurancemaladiesec.github.io/abuse/thanks/)
+- MediaTek (https://corp.mediatek.com/it-security-acknowledgements)
+- Bayer AG (https://www.bayer.com/en/cybersecurity-hall-of-fame)
+- Bosch (https://psirt.bosch.com/hall-of-fame/websites-hall-of-fame.html)
+- ETSI 
+- Definity Financial, Inc. 
+- Letter of Appreciation from Swedish Government, NCSC Netherlands, Latvian CERT (2x).
+- Letter of Appreciation from State Revenue Service of the Republic of Latvia.
+- Letter of thanks from Technische Universität Dresden.
