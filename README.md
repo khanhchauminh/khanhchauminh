@@ -46,13 +46,13 @@ I am an experienced Penetration Tester with a demonstrated history of working in
 
 ### Hall of Fames
 - CERT-EU (15 times) (https://cert.europa.eu/hall-of-fame)
-- United Nations (4x) (https://unite.un.org/content/hall-fame/list)
+- United Nations (4 times) (https://unite.un.org/content/hall-fame/list)
 - Assurance Maladie (https://assurancemaladiesec.github.io/abuse/thanks/)
 - MediaTek (https://corp.mediatek.com/it-security-acknowledgements)
 - Bayer AG (https://www.bayer.com/en/cybersecurity-hall-of-fame)
 - Bosch (https://psirt.bosch.com/hall-of-fame/websites-hall-of-fame.html)
 - ETSI 
 - Definity Financial, Inc. 
-- Letter of Appreciation from Swedish Government, NCSC Netherlands, Latvian CERT (2x).
+- Letter of Appreciation from Swedish Government, NCSC Netherlands, Latvian CERT (2 times).
 - Letter of Appreciation from State Revenue Service of the Republic of Latvia.
 - Letter of thanks from Technische Universität Dresden.
