@@ -3,7 +3,7 @@
 
 I am an experienced Penetration Tester with a demonstrated history of working in the Information Security industry and skilled in Penetration Testing, Vulnerability Assessment and Red Team. I am interested in finding and reporting security vulnerabilities through Bug Bounty and Responsible Disclosure Programs. I desire to learn, practice, and develop in-depth skills in the field of information security in a professional environment.
 
-### 🔎 CVEs: 37 (4 HIGH, 26 MEDIUM, 7 RESERVED)
+### 🔎 CVEs: 41 (4 HIGH, 30 MEDIUM, 7 RESERVED)
 |No|ID|CVSS Vector|Score|
 |---|---|---|---|
 |1|[CVE-2021-3961](https://nvd.nist.gov/vuln/detail/CVE-2021-3961)|CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N|5.4 MEDIUM|
@@ -43,6 +43,10 @@ I am an experienced Penetration Tester with a demonstrated history of working in
 |35|[CVE-2023-1429](https://nvd.nist.gov/vuln/detail/CVE-2023-1429)|CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N|5.4 MEDIUM|
 |36|[CVE-2023-1515](https://nvd.nist.gov/vuln/detail/CVE-2023-1515)|CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N|5.4 MEDIUM|
 |37|[CVE-2023-1517](https://nvd.nist.gov/vuln/detail/CVE-2023-1517)|CVSS:3.1/AV:N/AC:L/PR:H/UI:R/S:C/C:L/I:L/A:N|4.8 MEDIUM|
+|38|[CVE-2023-2327](https://nvd.nist.gov/vuln/detail/CVE-2023-2327)|CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N|5.4 MEDIUM|
+|39|[CVE-2023-2328](https://nvd.nist.gov/vuln/detail/CVE-2023-2328)|CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N|5.4 MEDIUM|
+|40|[CVE-2023-2342](https://nvd.nist.gov/vuln/detail/CVE-2023-2342)|CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N|5.4 MEDIUM|
+|41|[CVE-2023-2343](https://nvd.nist.gov/vuln/detail/CVE-2023-2343)|CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N|5.4 MEDIUM|
 
 ### Hall of Fames
 - CERT-EU (15 times) (https://cert.europa.eu/hall-of-fame)
