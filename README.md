@@ -3,7 +3,7 @@
 
 I am a 3-year experienced Penetration Tester with a demonstrated history of working in the Information Security industry and skilled in Penetration Testing, Vulnerability Assessment and Red Teaming. I am interested in finding and reporting security vulnerabilities through Bug Bounty and Responsible Disclosure Programs. I desire to learn, practice, and develop in-depth skills in the field of information security in a professional environment.
 
-### 🔎 CVEs: 37
+### 🔎 CVEs: 37 ([Reference](https://huntr.com/users/khanhchauminh/))
 |No|ID|CVSS Vector|Score|
 |---|---|---|---|
 |1|[CVE-2021-3961](https://nvd.nist.gov/vuln/detail/CVE-2021-3961)|CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N|5.4 MEDIUM|
