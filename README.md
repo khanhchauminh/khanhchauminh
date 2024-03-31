@@ -1,7 +1,7 @@
 ### About me
 👋 Hi everyone, my name is Chau Minh Khanh.  
 
-I am a 3-year experienced Penetration Tester with a demonstrated history of working in the Information Security industry and skilled in Penetration Testing, Vulnerability Assessment and Red Teaming. I am interested in finding and reporting security vulnerabilities through Bug Bounty and Responsible Disclosure Programs. I desire to learn, practice, and develop in-depth skills in the field of information security in a professional environment.
+I am an experienced Penetration Tester with a demonstrated history of working in the Information Security industry and skilled in Penetration Testing, Vulnerability Assessment and Red Teaming. I am interested in finding and reporting security vulnerabilities through Bug Bounty and Responsible Disclosure Programs. I desire to learn, practice, and develop in-depth skills in the field of information security in a professional environment.
 
 ### 🔎 CVEs: 37 ([Reference](https://huntr.com/users/khanhchauminh/))
 |No|ID|CVSS Vector|Score|
