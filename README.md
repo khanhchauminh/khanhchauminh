@@ -51,6 +51,6 @@ I am an experienced Penetration Tester with a demonstrated history of working in
 - [MediaTek](https://corp.mediatek.com/it-security-acknowledgements)
 - [Bayer AG](https://www.bayer.com/en/cybersecurity-hall-of-fame)
 - [Bosch](https://psirt.bosch.com/hall-of-fame/websites-hall-of-fame.html) 
-- Letter of Appreciation from Swedish Government, NCSC Netherlands, Latvian CERT (2 times).
+- Letter of Appreciation from Swedish Government, NCSC Netherlands, Latvian CERT (5 times).
 - Letter of Appreciation from the State Revenue Service of the Republic of Latvia.
-- Letter of thanks from Technische Universität Dresden.
+- Certificate of Recognition from U.S. Department of Education.
